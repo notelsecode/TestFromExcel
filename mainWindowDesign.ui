@@ -25,7 +25,7 @@
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout">
      <item>
-      <widget class="QPushButton" name="previous_question">
+      <widget class="QPushButton" name="previous_question_button">
        <property name="enabled">
         <bool>false</bool>
        </property>
@@ -35,7 +35,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="next_question">
+      <widget class="QPushButton" name="next_question_button">
        <property name="enabled">
         <bool>false</bool>
        </property>
@@ -75,7 +75,7 @@
      </item>
     </layout>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="finish_test_button">
     <property name="enabled">
      <bool>false</bool>
     </property>
